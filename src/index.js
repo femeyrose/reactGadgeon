@@ -52,7 +52,7 @@ const Second = () =>
 {
 return(
 <article>
-<h4>how are you</h4>
+<h4 style={{color:'blue',background:'green', fontSize:'1cm'}}>how are you</h4>
 <h4>how are you</h4>
 <h4>how are you</h4>
 <Image></Image>
